@@ -4,7 +4,9 @@ Submission for the [`ASSIGNMENT.md`](./ASSIGNMENT.md) debugging exercise: three
 customer-reported issues on a multi-tenant revenue dashboard, identified,
 fixed, and verified live against the dockerised stack.
 
-- 📺 **Loom walkthrough:** _to be added before submission deadline_
+- 📺 **Video walkthrough:** [Submission walkthrough (videos)](https://github.com/erdo99/New_devs_App/releases/tag/v1.0-submission)
+  - Part 1 — Bug A (cross-tenant cache leak): reproduction + fix
+  - Part 2 — Bug B (Decimal/float precision) and Bug C (property timezone)
 - 📝 **Detailed write-up:** [`FINDINGS.md`](./FINDINGS.md)
 
 ---
