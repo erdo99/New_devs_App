@@ -21,3 +21,10 @@ Thumbs.db
 # Env
 .env
 .env.local
+
+# Local recording artefacts (side-by-side buggy snapshots for the demo video)
+.buggy/
+
+# Demo walkthrough videos are distributed via the GitHub Release attached to
+# this fork, not via git history (GitHub blocks LFS uploads to public forks).
+*.mp4
