@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+*.local
+
+# Editors / OS
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local

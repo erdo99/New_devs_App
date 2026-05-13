@@ -13,6 +13,7 @@ pydantic-settings
 pydantic[email]
 pyhumps==3.8.0
 python-jose
+PyJWT>=2.8.0
 python-multipart
 pytz
 redis>=5.0.0
